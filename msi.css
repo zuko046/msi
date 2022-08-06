@@ -1,0 +1,380 @@
+.header{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 82px;
+}
+body{
+        margin: 0%;
+        padding: 0px;
+
+}
+.logo{
+    float: left;
+    padding-left: 120px;
+    padding-top: 29px;
+}
+.msi{
+    width: 100px;
+    height: 24.5px;
+    cursor: pointer;
+
+}
+.menu{
+    margin-left: 270px;
+    padding-top: 30px;
+}
+.menu1{
+    float: left;
+    display: block;
+    font-weight: 700;
+    font-family:-apple-system, -apple-system, 
+    BlinkMacSystemFont, 'Segoe UI', Roboto, 
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 
+    'Helvetica Neue', sans-serif;
+
+}
+.menu2{
+    float: left;
+    display: block;
+    padding-left: 50px;
+    font-weight: 700;
+    font-family: -apple-system, -apple-system, 
+    BlinkMacSystemFont, 'Segoe UI', Roboto, 
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 
+    'Helvetica Neue', sans-serif;
+}
+.menu3{
+    float: left;
+    display: block;
+    padding-left: 45px;
+    font-weight: 700;
+    font-family: -apple-system, -apple-system, 
+    BlinkMacSystemFont, 'Segoe UI', Roboto, 
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 
+    'Helvetica Neue', sans-serif;
+}
+.menu4{
+    float: left;
+    display: block;
+    padding-left: 67px;
+    font-weight: 700;
+    font-family: -apple-system, -apple-system, 
+    BlinkMacSystemFont, 'Segoe UI', Roboto, 
+    Oxygen, Ubuntu, Cantarell, 'Open Sans', 
+    'Helvetica Neue', sans-serif;
+}
+
+.black{
+    background-color: black;
+}
+.icon{
+    width: 100px;
+    height: auto;
+    margin-left: 500px;
+    cursor: pointer;
+
+}
+.img1{
+    width: 100%;
+    height: 100%; 
+}
+.section2{
+    background-position: center;
+    background-position: 100%;
+    background-size: 100%;
+    background-position-x: -300px;
+    background-position-y: 6px;
+    background-size: 2100px;
+    height: 900PX; 
+}
+.png1{
+    
+    width: 95%;
+    padding-left: 30px;
+    height: 700px; 
+}
+.text1{
+    color: black;
+    opacity: 70%;
+    font-weight: bolder;
+    padding-left: 500px;
+    padding-top: 500p;    
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.checkdiscount{
+    width: 252px;
+    height: 65px;
+    margin-left: 630px;
+    padding-top: 30PX;
+}
+.checkdiscout1{
+    color: #fff;
+    margin-left: 675px;
+    margin-top: -80px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.checkdiscout2{
+    font-family:'Arial Narrow';
+    font-weight: lighter;
+    margin-left: 650px;
+    margin-top: 30px;
+    font-size: small;
+
+}
+.buttion{
+    width: 1500.2px;
+    height: 75px;  
+}
+.b1{
+    background-color: #fff;
+    border: none;
+    color: rgb(131, 131, 131);
+    font-weight: bolder;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;   
+}
+.b2{
+    margin-left: -70px;
+    background-color: #fff;
+    border: none;
+    color: rgb(131, 131, 131);
+    font-weight: bolder;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.b3{
+    margin-left: -70px;
+    background-color: #fff;
+    border: none;
+    color: rgb(131, 131, 131);
+    font-weight: bolder;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.b4{
+    margin-left: -70px;
+    background-color: #fff;
+    border: none;
+    color: rgb(131, 131, 131);
+    font-weight: bolder;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.b5{
+    margin-left: -70px;
+    background-color: #fff;
+    border: none;
+    color: rgb(131, 131, 131);
+    font-weight: bolder;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.b6{
+    margin-left: -70px;
+    background-color: #fff; 
+    border: none;
+    color: rgb(131, 131, 131);
+    font-weight: bolder;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.png2{
+    padding-left: 40px;
+    width: 95%;
+    height: auto;
+}
+.img2{
+    width: 100%;
+    height: 850px ;
+    background-image: url(https://storage-asset.msi.com/in/picture/image/2022-Buying-Guide-Page/coverphoto/AMD-bundle/AMD-Cover-BG.jpg);
+} 
+.text2{
+    color: #fff;
+    margin-left: 555px;
+    font-size: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    height: 1.5cm;
+}
+.image11{
+    margin-left: 7.5cm;
+    width: 190px;
+    height: 61px;
+    text-decoration-color: #fff;
+    
+}
+.image22{
+    margin-left: 13cm;
+    width: 6cm;
+    height: 61px;
+}
+.image111{
+    color: #fff;
+    margin-left: 8.9cm;
+    margin-top: -50px;
+    font-family:'Franklin Gothic Medium';
+}
+.image222{
+    color: #fff;
+    margin-left: 26.8cm;
+    margin-top: -17px;
+    font-family:'Franklin Gothic Medium';
+}
+.section3{
+    width: 100%;
+    height: 539px;
+}  
+.png3{
+    padding-left: 40px;
+    width: 750px;
+    height: auto;
+    margin-top: 15.3%;
+}
+.img3{
+    background-image: url(https://storage-asset.msi.com/in/picture/image/2022-Buying-Guide-Page/Q2_GP_Warranty/gp-bg-0722.jpg);
+    background-size: 100%;
+    height: 639px;
+    width: 100%;
+}
+.extrawarranty{
+    font-family:'Franklin Gothic Medium';
+    font-weight: bolder;
+    text-align: center;
+    opacity: 90%;
+    margin-left: 7cm;
+    margin-top: -330px;
+    font-size: 35px;
+    background-color: #fff;
+    width: 320px;
+}
+.font1{
+    margin-left: 230px;
+    font-size: 22px;
+    opacity: 90%;
+    font-family:'Franklin Gothic Medium';
+    font-weight: lighter;
+
+}
+.font2{
+    margin-left: 230px;
+    font-size: 20px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-weight: lighter;
+    margin-top: -20px;
+}
+h3{
+    height:100=0px;
+    width:100
+}
+.btn1{
+    width: 250px;
+    height: auto;
+    margin-top: 180px;
+    margin-left: 230px;
+}
+.but1{
+    color: #fff;
+    margin-left: 290px;
+    margin-top: -128px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
+.but2{
+    color: #fff;
+    margin-top: 67px;
+    margin-left: 297px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+
+}
+.btn2{
+    
+    width: 250px;
+    height: auto;
+    margin-top: 20px;
+    margin-left: 230px;
+}
+.details{
+    font-size: 20px;
+    width: 100%;
+    height: 500px;
+}
+.line{
+    margin-top: 100px;
+    width: 100%;
+    height: 6px;
+    background-color: black;
+}
+.space{
+    
+    width: 1500px;
+    height: 560px;
+    margin-left: 10px
+    
+}
+th{
+    text-align: left;
+    font-weight: bold;
+    font-family: Arial ;
+    padding-left: 90px;
+    padding-top: 20px;
+    padding-bottom:10px;
+    
+    
+}
+td{
+    margin-left: 50px;    
+    font-family:Arial;
+    font-weight: lighter;
+    font-size: medium;
+    padding-left: 90px;
+    text-align: left;
+}
+.line11{
+    width: 100%;
+    height: 1px;
+    background-color: black;
+    opacity: 10%;
+}
+.footerbanner{
+    width: 100%;
+    height: 70px;
+}
+.cr{
+    margin-top: 13px;
+    margin-left: 40px;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12PX;
+}
+.list22{
+    margin-left: 620px;
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    font-size: 12PX;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li{
+    display: inline-block;
+    padding: 10px;
+}
